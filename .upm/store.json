@@ -1,0 +1,1 @@
+{"version":2,"languages":{"nodejs-npm":{"specfileHash":"ab49314930eb0e51b6e818075a6e8c0e","lockfileHash":"003b25f74748540e58cbd3fb7b86edcd","guessedImports":["express","body-parser","dotenv-safe","jsonwebtoken"],"guessedImportsHash":"eb2c62da9cc5f73f14d1bc480aa3eacd"}}}
