@@ -18,8 +18,8 @@ app.get('/clientes', verifyJWT ,clientes);
 app.post('/login', login);
 app.post('/logout', logout);
 
-app.listen(3000, () => {
-  console.log("Serve on http://localhost:3000")
+app.listen(2000, () => {
+  console.log("Serve on http://localhost:2000")
 });
 
 
